@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @KAUSHIKNikhi
+- 👋 Hi, I’m n_kaushik._
+c9673i
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-KAUSHIKNikhi/KAUSHIKNikhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@n_kaushik._ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
